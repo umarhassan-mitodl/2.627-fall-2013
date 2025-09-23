@@ -1,0 +1,34 @@
+leftnav:
+- identifier: 29d1119e-7ba7-1836-0064-dab8e42e5f03
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a3e8ad1b-6f83-72d1-116a-9727fb53539f
+  name: Calendar & Readings
+  pageRef: /pages/calendar-readings/
+  weight: 20
+- identifier: 6dfe93db-514c-ba69-7de8-88355c6e8722
+  name: IV Curve Measurement
+  pageRef: /pages/calendar-readings/iv-curve-measurement
+  parent: a3e8ad1b-6f83-72d1-116a-9727fb53539f
+  weight: 30
+- identifier: 7c1b3b5a-aab8-de88-cc01-54e9515ac34d
+  name: Lecture Videos & Slides
+  pageRef: /video_galleries/lecture-videos-slides
+  weight: 40
+- identifier: c5af3e78-7a59-3c75-b87f-328a16cdecf4
+  name: Tutorial Videos
+  pageRef: /video_galleries/tutorial-videos
+  weight: 50
+- identifier: dc39f90b-bd8e-2eab-b87d-1a299ae17ea1
+  name: Assignments
+  pageRef: /video_galleries/assignments
+  weight: 60
+- identifier: 5341b458-4ae2-28e4-a45e-ad39e27ef9c1
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 70
+- identifier: ead5a90b-d2e0-95ee-bfd2-a9e38d13c5ba
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 80

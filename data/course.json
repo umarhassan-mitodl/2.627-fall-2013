@@ -1,0 +1,75 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electric Power"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Electronic Materials"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Energy",
+      "Renewables"
+    ],
+    [
+      "Energy",
+      "Electricity"
+    ]
+  ],
+  "legacy_uid": "14bc9b3d-5c61-c1f4-bfa2-9909abdfe06d",
+  "instructors": {
+    "content": [
+      "6bb7f47e-31f1-a11f-a4d1-a8100c160d99"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "18a4814f-0b28-8b04-3938-e002722e19b4",
+    "website": "2-627-fundamentals-of-photovoltaics-fall-2013"
+  },
+  "course_title": "Fundamentals of Photovoltaics",
+  "course_description": "Fundamentals of photoelectric conversion: charge excitation, conduction, separation, and collection. Lectures cover commercial and emerging photovoltaic technologies and cross-cutting themes, including conversion efficiencies, loss mechanisms, characterization, manufacturing, systems, reliability, life-cycle analysis, risk analysis, and technology evolution in the context of markets, policies, society, and environment.\n\nThis course is one of many [OCW Energy Courses](/courses/energy-courses/), and it is an elective subject in MIT's undergraduate {{% resource_link \"f87381db-c912-4d14-a460-732387613f79\" \"Energy Studies Minor\" %}}. This Institute\u2013wide program complements the deep expertise obtained in any major with a broad understanding of the interlinked realms of science, technology, and social sciences as they relate to energy and associated environmental challenges.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "2.626",
+  "primary_course_number": "2.627",
+  "course_image_thumbnail": {
+    "content": "0867a3ff-d0de-bf07-c9cc-8eec205dd280",
+    "website": "2-627-fundamentals-of-photovoltaics-fall-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Tutorial Videos",
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects with Examples",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "5833cae7-978d-4371-a39b-402e573b4a7f",
+  "site_short_id": "2.627-fall-2013",
+  "site_url_path": "courses/2-627-fundamentals-of-photovoltaics-fall-2013",
+  "title": "Course Metadata"
+}
