@@ -16,13 +16,13 @@ video_metadata:
 
 We will be measuring the IV characteristics of a solar cell using a homemade Arduino-based USB-powered sourcemeter that connects to your personal laptop computer.
 
-Documentation: {{% resource_link "dbb496a0-bdf5-49bc-b406-0e0ce21d7b79" "Build Your Own Sourcemeter" %}}
+Documentation: [Build Your Own Sourcemeter](http://pv.mit.edu/home/education/resources-for-educators/build-your-own-sourcemeter/)
 
 ### Installing Laptop Drivers
 
 Before class, you should follow these instructions to install the proper driver in your laptop.
 
-Go to the {{% resource_link "cc28b2dc-df93-46ee-9fd5-2ef6e1d18556" "Virtual COM Port Drivers" %}} webpage (Future Technology Devices International, Ltd.)
+Go to the [Virtual COM Port Drivers](http://www.ftdichip.com/Drivers/VCP.htm) webpage (Future Technology Devices International, Ltd.)
 
 Select the appropriate driver for your operating system. Download and save it somewhere you can find it again.
 

@@ -5,6 +5,8 @@ description: This file contains the information regarding Worksheet on pn-juncti
 file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/49abdb020f384bb7b9e5a65c54ea478f_MIT2_627F13_lec06_handout.pdf
 file_size: 143891
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

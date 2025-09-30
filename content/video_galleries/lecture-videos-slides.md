@@ -2,6 +2,8 @@
 content_type: video_gallery
 description: 'This page contains the lecture videos and associated slides from the
   2011 version of the course. '
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
