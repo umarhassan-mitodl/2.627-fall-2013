@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes quizzes and supplementary material from the Fall
   2011 version of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

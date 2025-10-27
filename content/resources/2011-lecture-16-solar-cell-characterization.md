@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: 214809752
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -13,9 +11,10 @@ ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: "[Solar Cell Characterization (PDF)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec16)\n\
   \n### Supporting Materials\n\nPaper referenced in this lecture: Kasemann, M., et\
-  \ al. [\"Progress in Silicon Solar Cell Characterization with Infrared Imaging Methods.\"\
-  \ (PDF)](http://www.mpi-halle.mpg.de/mpi/publi/pdf/8470_08.pdf) Proceedings of the\
-  \ 23rd European Photovoltaic Solar Energy Conference (2008): 965\u201373."
+  \ al. {{% resource_link \"6b08b7db-c35f-485b-9369-4ceb76b40f6b\" \"\\\"Progress\
+  \ in Silicon Solar Cell Characterization with Infrared Imaging Methods.\\\" (PDF)\"\
+  \ %}} Proceedings of the 23rd European Photovoltaic Solar Energy Conference (2008):\
+  \ 965\u201373."
 parent_title: Lecture Videos & Slides
 parent_type: CourseSection
 related_resources_text: ''

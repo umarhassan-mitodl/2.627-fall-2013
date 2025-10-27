@@ -2,8 +2,6 @@
 content_type: video_gallery
 description: This page presents four short videos that use tabletop demonstrations
   and animated graphics to explain several fundamental photovoltaic topics.
-hide_download: true
-hide_download_original: null
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

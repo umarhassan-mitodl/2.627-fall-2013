@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/d0ba63a835905e5eae0d4a71f29967c3_uLbqhIp3ahc.vtt
 file_size: 132558
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

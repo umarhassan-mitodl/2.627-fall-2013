@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: 214809752
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

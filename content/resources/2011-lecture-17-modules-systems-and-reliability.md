@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: 241114562
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -20,11 +18,12 @@ optional_text: '[Modules, Systems, and Reliability (PDF - 2.7MB)](/courses/2-627
   Articles referenced in this lecture:
 
 
-  *   Wesoff, Eric. "[Solar Module Pricing: $1.03 per Watt for c-Si](http://www.greentechmedia.com/articles/read/solar-module-pricing-1.03-per-watt-for-c-si)."
-  Greentech Media, Oct 14, 2011.
+  *   Wesoff, Eric. "{{% resource_link "123e95dd-67a5-4983-b5fa-609b4d1fbb3f" "Solar
+  Module Pricing: $1.03 per Watt for c-Si" %}}." Greentech Media, Oct 14, 2011.
 
-  *   Campbell, Carolyn. "[US Has an Average Solar System Price for $5.20/W](http://www.greentechmedia.com/articles/read/average-system-price-of-5.20-w)."
-  Greentech Media, Oct 17, 2011.'
+  *   Campbell, Carolyn. "{{% resource_link "0226edc3-61c4-4e7c-a9d1-b88881224a63"
+  "US Has an Average Solar System Price for $5.20/W" %}}." Greentech Media, Oct 17,
+  2011.'
 parent_title: Lecture Videos & Slides
 parent_type: CourseSection
 related_resources_text: ''

@@ -3,8 +3,6 @@ content_type: video_gallery
 description: This page presents the problem sets, manufacturing simulation assignment,
   and team project required for the course. Videos of final project presentations
   from the 2011 class are included.
-hide_download: true
-hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Assignments
@@ -80,7 +78,7 @@ Green, M. A. "Design of Silicon Solar Cells." Chapter 8 in _Solar Cells: Operati
 Manufacturing Simulation
 ------------------------
 
-Download the manufacturing simulation software: [Virtual MES](https://sites.google.com/site/virtualsolarcellsinc/virtual-mes-software)
+Download the manufacturing simulation software: {{% resource_link "039c586a-59b1-4a52-8855-38da0405473f" "Virtual MES" %}}
 
 Assignment: {{% resource_link 84282d63-468f-afd3-00cf-6f8b25ceb46c "Hypothesis Testing of New Wafer Supplies (PDF)" %}}
 
