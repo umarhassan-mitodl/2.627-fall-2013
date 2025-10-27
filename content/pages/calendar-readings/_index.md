@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section provides the schedule of lecture topics, activities, videos,
   readings, and assignments. '
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -16,15 +14,15 @@ In the first half of the term, the course operates in a "flipped classroom" mode
 
 ## Readings Key
 
-\[PVCDROM\] = Honsberg, C., and S. Bowden. [_Photovoltaics: Devices, Systems and Applications CD-ROM_](https://www.pveducation.org/pvcdrom/welcome-to-pvcdrom). \[A free online resource.\]
+\[PVCDROM\] = Honsberg, C., and S. Bowden. {{% resource_link "96687cae-90d6-4ace-9f09-c71b2b6033ee" "_Photovoltaics: Devices, Systems and Applications CD-ROM_" %}}. \[A free online resource.\]
 
 \[Green\]= Green, M. A. _Solar Cells: Operating Principles, Technology, and System Applications_. Prentice Hall, 1981. ISBN: 9780138222703.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}LEC #{{< thclose >}}{{< thopen >}}LECTURE TOPICS & ACTIVITIES{{< thclose >}}{{< thopen >}}PREPARATION: VIDEOS & READINGS{{< thclose >}}{{< thopen >}}ASSIGNMENTS{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="4" >}}**Unit 1: Fundamentals of PV Devices and Systems**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}1{{< tdclose >}}{{< tdopen >}}Class Introduction; Solar Technology Framework{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}}{{% resource_link 6904e119-84ec-9ba7-55f5-6ce340e92c1d "Background Assessment Quiz (PDF)" %}} (not for grade){{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}2{{< tdclose >}}{{< tdopen >}}
 The Solar Resource
 ### In-Class Activities
-[PVWatts Calculator](http://pvwatts.nrel.gov/). National Renewable Energy Laboratory.
-\[PVCDROM\] Appendix, "[Standard Solar Spectra](http://www.pveducation.org/pvcdrom/appendices/standard-solar-spectra)."
+{{% resource_link "f1c43f2e-f1d5-4994-99ba-6115cd2922af" "PVWatts Calculator" %}}. National Renewable Energy Laboratory.
+\[PVCDROM\] Appendix, "{{% resource_link "d3e037aa-92e4-43db-934e-ca47599d9609" "Standard Solar Spectra" %}}."
 
 {{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
@@ -33,7 +31,7 @@ The Solar Resource
 
 ### Read
 
-\[PVCDROM\] Chapter 2: [Properties of Sunlight](http://www.pveducation.org/pvcdrom/properties-of-sunlight/properties-of-light).
+\[PVCDROM\] Chapter 2: {{% resource_link "79b23296-38e1-4112-bd68-956b979f4b56" "Properties of Sunlight" %}}.
 
 \[Green\] Chapter 1: Solar Cells and Sunlight.
 
@@ -47,7 +45,7 @@ The Solar Resource
 
 ### Read
 
-\[PVCDROM\] Chapter 3: [PN Junction](http://pveducation.org/pvcdrom/3-pn-junction/introduction-to-semiconductors).
+\[PVCDROM\] Chapter 3: {{% resource_link "16fc1d3b-66f1-4b06-9a97-65d25a4f797a" "PN Junction" %}}.
 
 {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}4{{< tdclose >}}{{< tdopen >}}Charge Excitation{{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
@@ -76,7 +74,7 @@ Problem set 2 out
 
 ### Read
 
-\[PVCDROM\] Chapter 3: [PN Junction](http://pveducation.org/pvcdrom/3-pn-junction/introduction-to-semiconductors).
+\[PVCDROM\] Chapter 3: {{% resource_link "16fc1d3b-66f1-4b06-9a97-65d25a4f797a" "PN Junction" %}}.
 
 {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}6{{< tdclose >}}{{< tdopen >}}
 Charge Separation II
@@ -107,7 +105,7 @@ Advanced Semiconductor Physics
 
 ### Read
 
-Schroder, D. K. "[Solar Cell Contact Resistance–A Review](http://dx.doi.org/10.1109/T-ED.1984.21583)." _IEEE Transactions Electron Devices_ 31, no. 5 (1984): 637–47.
+Schroder, D. K. "{{% resource_link "4ad50ed6-c9b0-49a7-a18d-547eda20c47f" "Solar Cell Contact Resistance–A Review" %}}." _IEEE Transactions Electron Devices_ 31, no. 5 (1984): 637–47.
 
 {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}8{{< tdclose >}}{{< tdopen >}}Materials Properties Affecting Performance{{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
@@ -130,14 +128,14 @@ Quiz 1 out
 
 McEvoy, A., T. Markvart, and Luis Castañer, eds. _Solar Cells: Materials, Manufacture and Operation_. 2nd ed. Academic Press, 2012. ISBN: 9780123869647.
 
-- Cuevas, A., D. Macdonald and R. A Sinton. Chapter IIA-1: "[Characterization and Diagnosis of Silicon Wafers, Ingots, and Solar Cells](http://dx.doi.org/10.1016/B978-0-12-386964-7.00015-9)."
-- Verlinden, P. J. Chapter IC-5: "[High-Efficiency Back-Contact Silicon Solar Cells for One-Sun and Concentrator Applications](http://dx.doi.org/10.1016/B978-0-12-386964-7.00011-1)."
+- Cuevas, A., D. Macdonald and R. A Sinton. Chapter IIA-1: "{{% resource_link "3d761a0e-17f6-4670-94a2-86fad63eccad" "Characterization and Diagnosis of Silicon Wafers, Ingots, and Solar Cells" %}}."
+- Verlinden, P. J. Chapter IC-5: "{{% resource_link "272052de-5c4e-445d-aead-bf96a555e2f8" "High-Efficiency Back-Contact Silicon Solar Cells for One-Sun and Concentrator Applications" %}}."
 
 Luque, A., and S. Hegedus, eds. Chapters in _Handbook of Photovoltaic Science and Engineering_. 2nd ed. John Wiley & Sons, Ltd., 2011. ISBN: 9780470721698.
 
-- Ceccaroli, B., and O. Lohne. Excerpt of Chapter 5: "[Solar Grade Silicon Feedstock](http://dx.doi.org/10.1002/9780470974704.ch5)." pp. 169–93.
-- Rodriguez, H., I. Geurrero, et al. Excerpt of Chapter 6: "[Bulk Crystal Growth and Wafering for PV](http://dx.doi.org/10.1002/9780470974704.ch6)." pp. 218–39.
-- Tobias, I., C. del Canizo, and J. Alonso. Excerpt of Chapter 7:  "[Crystalline Silicon Solar Cells and Modules](http://dx.doi.org/10.1002/9780470974704.ch7)." pp. 265–89.
+- Ceccaroli, B., and O. Lohne. Excerpt of Chapter 5: "{{% resource_link "1b654fd8-754e-499b-b528-1fed3e7a4e19" "Solar Grade Silicon Feedstock" %}}." pp. 169–93.
+- Rodriguez, H., I. Geurrero, et al. Excerpt of Chapter 6: "{{% resource_link "5f8d315a-259f-4b3b-b0df-e4d166101a6a" "Bulk Crystal Growth and Wafering for PV" %}}." pp. 218–39.
+- Tobias, I., C. del Canizo, and J. Alonso. Excerpt of Chapter 7:  "{{% resource_link "8cf2e94d-bcc7-4e0f-b108-dea5e01c2090" "Crystalline Silicon Solar Cells and Modules" %}}." pp. 265–89.
 
 {{< tdclose >}}{{< tdopen >}}Project: organized first meetings with mentors outside of normal class time.{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}11{{< tdclose >}}{{< tdopen >}}Commercial Technologies: Silicon II{{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
@@ -161,7 +159,7 @@ Tour of the MIT solar installation
 {{< tdclose >}}{{< tdopen >}}
 ### Read
 
-MIT Energy Initiative. "[Student Project Identifies Improvements for Campus PVs](http://newsoffice.mit.edu/2011/student-project-campus-solar)," _MIT News_, November 30, 2011.
+MIT Energy Initiative. "{{% resource_link "8a49ea9d-cd2b-4ff9-ad57-4dbf0cc3a803" "Student Project Identifies Improvements for Campus PVs" %}}," _MIT News_, November 30, 2011.
 
 {{< tdclose >}}{{< tdopen >}}
 Homework 4 due
@@ -172,7 +170,7 @@ Homework 5 out
 Homework 5 due
 Project team check-in
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}16{{< tdclose >}}{{< tdopen >}}Field trip to [Fraunhofer CSE](https://www.bau.fraunhofer.de/en/fab/CSE.html){{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}**Unit 3: Cross-Cutting Themes**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}17{{< tdclose >}}{{< tdopen >}}Troubleshooting Photoelectric Conversion Efficiency Losses{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}16{{< tdclose >}}{{< tdopen >}}Field trip to {{% resource_link "8ef2b754-cedc-4612-b863-7b26c147c168" "Fraunhofer CSE" %}}{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}**Unit 3: Cross-Cutting Themes**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}17{{< tdclose >}}{{< tdopen >}}Troubleshooting Photoelectric Conversion Efficiency Losses{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}}
 Quiz 2 due
 Project team check-in
 
@@ -183,11 +181,11 @@ Guest lecture "Silicon solar cell manufacturing costs" by K. V. Ravi
 {{< tdclose >}}{{< tdopen >}}
 ### Read
 
-Powell, D. M. , M. T. Winkler, et al. "[Crystalline Silicon Photovoltaics: A Cost Analysis Framework for Determining Technology Pathways to Reach Baseload Electricity Costs](http://dx.doi.org/10.1039/C2EE03489A)." _Energy & Environmental Science_ 5, no. 3 (2012): 5874–83.
+Powell, D. M. , M. T. Winkler, et al. "{{% resource_link "c85cead6-d9ed-4183-ba17-adf823464ebc" "Crystalline Silicon Photovoltaics: A Cost Analysis Framework for Determining Technology Pathways to Reach Baseload Electricity Costs" %}}." _Energy & Environmental Science_ 5, no. 3 (2012): 5874–83.
 
-———. "[Modeling the Cost and Minimum Sustainable Price of Crystalline Silicon Photovoltaic Manufacturing in the United States](http://dx.doi.org/10.1109/JPHOTOV.2012.2230056)." _IEEE Journal of Photovoltaics_ 3, no. 2 (2013): 662–68.
+———. "{{% resource_link "5c258130-09e0-4ce6-b694-d53964f15833" "Modeling the Cost and Minimum Sustainable Price of Crystalline Silicon Photovoltaic Manufacturing in the United States" %}}." _IEEE Journal of Photovoltaics_ 3, no. 2 (2013): 662–68.
 
-Goodrich, A. C., D. M. Powell, et al. "[Assessing the Drivers of Regional Trends in Solar Photovoltaic Manufacturing](http://dx.doi.org/10.1039/C3EE40701B)." _Energy & Environmental Science_ 6, no. 10 (2013): 2811–21.
+Goodrich, A. C., D. M. Powell, et al. "{{% resource_link "2289cf16-a3a5-45be-aa67-9b950bdf252a" "Assessing the Drivers of Regional Trends in Solar Photovoltaic Manufacturing" %}}." _Energy & Environmental Science_ 6, no. 10 (2013): 2811–21.
 
 {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}19{{< tdclose >}}{{< tdopen >}}Modules, Systems, and Reliability{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}}Project team check-in{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}20{{< tdclose >}}{{< tdopen >}}Price, Markets, and Subsidies{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}21{{< tdclose >}}{{< tdopen >}}Guest lecture by DOE SunShot Program Manager Lidija Sekaric{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}}
 Project team check-in
